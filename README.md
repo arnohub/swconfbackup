@@ -40,7 +40,7 @@ pip3.9 install email==6.0.0a1 -i http://pypi.douban.com/simple --trusted-host py
 
 python3.9 setTask.py 开启定时备份任务
 
-python3.9 swconf_backup.py 立即开始备份，对比配置并发送邮件（测试使用）
+python3.9 swconf_backup.py 立即开始备份（测试使用）
 
 ## 效果展示
 
