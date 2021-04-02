@@ -44,8 +44,8 @@ python3.9 swconf_backup.py 立即开始备份，对比配置并发送邮件（�
 
 ## 效果展示
 
-![image](https://github.com/arnohub/swconfbackup/blob/main/swconfbackup/example1.jpg)
-![image](https://github.com/arnohub/swconfbackup/blob/main/swconfbackup/example2.jpg)
+![image](https://github.com/arnohub/swconfbackup/blob/main/swconfbackup/example1.jpeg)
+![image](https://github.com/arnohub/swconfbackup/blob/main/swconfbackup/example2.jpeg)
 
 ## 联系方式
 
