@@ -38,6 +38,8 @@ pip3.9 install netmiko -i http://pypi.douban.com/simple --trusted-host pypi.doub
 
 pip3.9 install email==6.0.0a1 -i http://pypi.douban.com/simple --trusted-host pypi.douban.com
 
+把文件拷贝到根目录（踩了crontab python路径的吭）或者把/swconfbackup/start.sh 和 /swconfbackup/setTask.py 中crontab部分修改为你程序所在目录的绝对路径
+
 python3.9 setTask.py 开启定时备份任务
 
 python3.9 swconf_backup.py 立即开始备份（测试使用）
